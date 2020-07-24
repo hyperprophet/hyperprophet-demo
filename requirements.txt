@@ -1,1 +1,2 @@
-https://github.com/hyperprophet/hyperprophet/archive/v0.1.1.zip
+https://github.com/hyperprophet/hyperprophet/archive/v0.1.2.zip
+fbprophet
