@@ -1,3 +1,3 @@
-https://github.com/hyperprophet/hyperprophet/archive/v0.1.3.zip
+https://github.com/hyperprophet/hyperprophet/archive/v0.1.4.zip
 fbprophet
 jupyter-notebookparams
